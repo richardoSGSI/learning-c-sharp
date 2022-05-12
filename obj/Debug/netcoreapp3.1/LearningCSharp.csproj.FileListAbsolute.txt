@@ -1,0 +1,14 @@
+C:\Users\richard.orichh\src\repos\learning-c-sharp\bin\Debug\netcoreapp3.1\LearningCSharp.exe
+C:\Users\richard.orichh\src\repos\learning-c-sharp\bin\Debug\netcoreapp3.1\LearningCSharp.deps.json
+C:\Users\richard.orichh\src\repos\learning-c-sharp\bin\Debug\netcoreapp3.1\LearningCSharp.runtimeconfig.json
+C:\Users\richard.orichh\src\repos\learning-c-sharp\bin\Debug\netcoreapp3.1\LearningCSharp.runtimeconfig.dev.json
+C:\Users\richard.orichh\src\repos\learning-c-sharp\bin\Debug\netcoreapp3.1\LearningCSharp.dll
+C:\Users\richard.orichh\src\repos\learning-c-sharp\bin\Debug\netcoreapp3.1\LearningCSharp.pdb
+C:\Users\richard.orichh\src\repos\learning-c-sharp\obj\Debug\netcoreapp3.1\LearningCSharp.csproj.AssemblyReference.cache
+C:\Users\richard.orichh\src\repos\learning-c-sharp\obj\Debug\netcoreapp3.1\LearningCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richard.orichh\src\repos\learning-c-sharp\obj\Debug\netcoreapp3.1\LearningCSharp.AssemblyInfoInputs.cache
+C:\Users\richard.orichh\src\repos\learning-c-sharp\obj\Debug\netcoreapp3.1\LearningCSharp.AssemblyInfo.cs
+C:\Users\richard.orichh\src\repos\learning-c-sharp\obj\Debug\netcoreapp3.1\LearningCSharp.csproj.CoreCompileInputs.cache
+C:\Users\richard.orichh\src\repos\learning-c-sharp\obj\Debug\netcoreapp3.1\LearningCSharp.dll
+C:\Users\richard.orichh\src\repos\learning-c-sharp\obj\Debug\netcoreapp3.1\LearningCSharp.pdb
+C:\Users\richard.orichh\src\repos\learning-c-sharp\obj\Debug\netcoreapp3.1\LearningCSharp.genruntimeconfig.cache

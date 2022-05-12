@@ -4,6 +4,8 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>learning_c_sharp</RootNamespace>
+	<GenerateProgramFile>false</GenerateProgramFile>
+	<StartupObject>LearningCSharp.Program</StartupObject>
   </PropertyGroup>
 
 </Project>

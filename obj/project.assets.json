@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richard.orichh\\src\\repos\\learning-c-sharp\\learning-c-sharp.csproj",
-      "projectName": "learning-c-sharp",
-      "projectPath": "C:\\Users\\richard.orichh\\src\\repos\\learning-c-sharp\\learning-c-sharp.csproj",
+      "projectUniqueName": "C:\\Users\\richard.orichh\\src\\repos\\learning-c-sharp\\LearningCSharp.csproj",
+      "projectName": "LearningCSharp",
+      "projectPath": "C:\\Users\\richard.orichh\\src\\repos\\learning-c-sharp\\LearningCSharp.csproj",
       "packagesPath": "C:\\Users\\richard.orichh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\richard.orichh\\src\\repos\\learning-c-sharp\\obj\\",
       "projectStyle": "PackageReference",
